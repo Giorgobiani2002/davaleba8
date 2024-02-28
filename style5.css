@@ -1,0 +1,17 @@
+.table {
+    border-style: dashed;
+    background-color: aqua;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+}
+td,th {
+    
+
+    border-style: dashed;
+    background-color: aqua;
+}
+body{
+    background-color: black;
+}
